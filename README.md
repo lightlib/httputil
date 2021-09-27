@@ -99,3 +99,5 @@ func main() {
 result:
 
 ![result](https://github.com/chinaran/my-pictures/blob/master/httputil/result.png)
+
+
